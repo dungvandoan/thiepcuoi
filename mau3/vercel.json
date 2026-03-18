@@ -1,0 +1,13 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/template/pc/thiep-cuoi-2",
+      "destination": "/index.html"
+    }
+  ]
+}
+
