@@ -1,7 +1,7 @@
 const http = require("http");
 const https = require("https");
 
-const port = Number(process.env.PORT || 3000);
+const port = Number(process.env.PORT || 6000);
 const upstreamOrigin = "https://cinelove.me";
 
 function rewriteSetCookie(value) {

@@ -1,0 +1,13 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/template/pc/thiep-valentine-1",
+      "destination": "/index.html"
+    }
+  ]
+}
+

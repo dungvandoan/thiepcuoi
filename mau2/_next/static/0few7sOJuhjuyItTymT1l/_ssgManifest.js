@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F","\u002F404","\u002Fcustom-websites\u002F[id]","\u002Ftemplate\u002Fiframe\u002F[template_slug]","\u002Ftemplates","\u002Ftemplates\u002F[categorySlug]","\u002Fthiep-cuoi\u002Fkhach-hang","\u002Fthiep-tron-goi\u002Fmau-thiep"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
